@@ -1,0 +1,5 @@
+My custom-made widget, the Progress Tracker Widget, is an ideal addition to a planner app due to its ability to effectively track and manage tasks. It provides users with a visual representation of their task progress, enabling them to stay organized and motivated. The widget's features include adding tasks, marking them as completed, and clearing all tasks. The progress percentage is dynamically calculated based on completed tasks, giving users a clear overview of their productivity.
+
+To use the widget, users simply need to input their tasks in the text input field and press Enter to add them to the task list. Each task appears with a "Completed" button next to it, allowing users to mark tasks as completed. Completed tasks are visually indicated with a checkmark. Additionally, a "Clear Tasks" button is available to remove all tasks at once. The widget's progress bar visually illustrates the overall progress of tasks.
+
+With its intuitive interface and comprehensive task management features, the Task Progress Widget empowers users to effectively plan and accomplish their tasks within the planner app.
